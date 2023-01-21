@@ -12,14 +12,14 @@ body{
 .navbar-custom {
   padding-top: 1rem;
   padding-bottom: 1rem;
-  background-color: rgba(45, 24, 50, 0.582);
+  background-color: rgba(13, 14, 13, 0.582);
 }
 .hero {
  
     padding-top: 10.5rem;
     padding-bottom: 6rem;
     text-align: center;
-    color: #000;
+    color: rgb(20, 20, 20);
     background-image: url("https://cdn.cadcrowd.com/3d-models/4e/c7/4ec71549-1f15-4ce3-a95d-715b61f3829b/gallery/cdf08c59-e90a-4728-9640-7fa6165b480a/medium.jpg");
     background-repeat: no-repeat;
     background-attachment: scroll;
